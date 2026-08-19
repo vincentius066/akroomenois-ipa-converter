@@ -1,3 +1,7 @@
+# Fork notes
+
+This project is still a work in progress. When it is finished, I will lay out the aditional steps to make the IPA converter work.
+
 # A Macronizer for Ancient Greek
 
 ![PyPI](https://img.shields.io/pypi/v/grc-macronizer?color=blue&label=PyPI&logo=python&logoColor=white)
